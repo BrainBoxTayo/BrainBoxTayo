@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brainboxtayo" alt="brainboxtayo" /></a> </p>
 
-- 🔭 I’m currently working on **A super secret project**
+- 🔭 I’m currently working on **Me**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web Dev**
 
 - 🤝 I’m looking for help with **Robotics**
 
